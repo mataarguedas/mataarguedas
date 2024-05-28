@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mataarguedas, born in 03/19/00.
-- 👀 Interested in gaming developing. 
-- 🌱 I’m currently coding in c#, mvc .net and js.
-- 💞️ I’m looking to collaborate w/ everyone
+-  Interested in gaming developing. 
+-  currently coding in c#, mvc .net and js.
+-  I’m looking to collaborate w/ everyone
 
 <!---
 mataarguedas/mataarguedas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
