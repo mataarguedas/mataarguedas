@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mataarguedas, born in march 19th, 2000.
 - 👀 I’m interested in applied programming in biology and physics
-- 🌱 I’m currently learning c# and javascript
+- 🌱 I’m currently coding in c# and javascript
 - 💞️ I’m looking to collaborate w/ everyone
 
 <!---
