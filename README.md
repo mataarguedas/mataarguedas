@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mataarguedas, born in 03/19/00.
--  Interested in gaming developing. 
+-  Interested in gaming dev. 
 -  currently omw to code in java and react.
 -  I’m looking to collaborate w/ everyone.
 
