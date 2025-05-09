@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mataarguedas, born in 03/19/00.
--  Interested in mobile and web dev. 
--  currently omw to code in java and react.
--  I’m looking to collaborate w/ everyone.
+- 👋 Hi, I’m Emmanuel.
+- 2nd year Computer Engineering Student.
+- Currently studying java and react on my own.
+- Enthusiast on learning how to build high quality software.
 
 <!---
 mataarguedas/mataarguedas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
