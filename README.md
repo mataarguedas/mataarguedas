@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel.
-- 2nd year Computer Engineering Student.
+- 3rd year Computer Engineering Student.
 - Currently studying react, node and AWS on my own.
 - Enthusiast on learning how to build high quality software.
 
